@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @urro200
+- 👺 Hi, I’m @urro200
 - 👀 I’m interested in all things computer science, and learning everything i can
-- 🌱 I’m currently learning Data Science and Computer Science.
-- 💞️ I’m looking to collaborate on anything possible to further my learning
+- 😎 I’m currently learning Data Science and Computer Science.
+- 😆 I’m looking to collaborate on anything possible to further my learning
 - 📫 How to reach me: email(urro200@gmail.com)
 
 <!---
