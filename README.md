@@ -1,7 +1,6 @@
 - 👺 Hi, I’m @urro200
 - 👀 I’m interested in all things computer science, and learning everything I can
-- 😎 I’m currently learning Data Structures and Computer Algorithms.
-- 😆 I’m looking to collaborate on anything possible to further my learning
+- 😎 I’m currently Machine Structures and Processing Systems.
 - 📫 How to reach me: email(uriahrodriguez@berkeley.edu)
 
 <!---
