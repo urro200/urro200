@@ -1,6 +1,6 @@
 - 👺 Hi, I’m @urro200
-- 👀 I’m interested in all things computer science, and learning everything I can
-- 😎 I’m currently Machine Structures and Processing Systems.
+- 👀 I’m interested in creating clean and buildable code, and learning everything I can.
+- 😎 I’m currently in Efficient Algorithms, Intractable Problems, and Cyber Security.
 - 📫 How to reach me: email(uriahrodriguez@berkeley.edu)
 
 <!---
