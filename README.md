@@ -1,6 +1,6 @@
-- 👺 Hi, I’m @urro200
-- 👀 I’m interested in creating clean and buildable code, and learning everything I can.
-- 😎 I’m currently in Efficient Algorithms, Intractable Problems, and Cyber Security.
+- 👺 Hi, my name is Uriah Rodriguez
+- 👀 I’m interested in creating clean and buildable code, and learning in every project I can contribute to.
+- 😎 I’m currently in Efficient Algorithms, Intractable Problems, and Cyber Security courses at UC Berkeley
 - 📫 How to reach me: email(uriahrodriguez@berkeley.edu)
 
 <!---
